@@ -1,0 +1,17 @@
+#Taylor Ellis
+#I am a British woman living in the Netherlands
+print("    " + "T" * 11)
+print("         " + "T")
+print("         " + "T")
+print("         " + "T")
+print("         " + "T")
+print("         " + "T")
+print("    ")
+print("""            EEEEEEEEEEE
+            E
+            E
+            EEEEEEEEEEE
+            E
+            E
+            EEEEEEEEEEE
+            """)
